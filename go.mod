@@ -7,7 +7,7 @@ require (
 	contrib.go.opencensus.io/exporter/stackdriver v0.8.0
 	fortio.org/fortio v1.3.1
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/aws/aws-sdk-go v1.16.20 // indirect
+	github.com/aws/aws-sdk-go v1.34.0 // indirect
 	github.com/evanphx/json-patch v4.1.0+incompatible
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/gogo/protobuf v0.0.0-20171007142547-342cbe0a0415 // indirect
@@ -31,19 +31,20 @@ require (
 	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/pborman/uuid v0.0.0-20180906182336-adf5a7427709 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
-	github.com/pkg/errors v0.8.0
+	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v0.9.2
 	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.3.1
-	github.com/stretchr/testify v1.2.2
+	github.com/stretchr/testify v1.5.1
 	go.opencensus.io v0.18.0
-	golang.org/x/net v0.0.0-20181201002055-351d144fa1fc
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
 	google.golang.org/api v0.0.0-20190117000611-43037ff31f69 // indirect
 	google.golang.org/genproto v0.0.0-20190111180523-db91494dd46c
 	google.golang.org/grpc v1.17.0
+	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
 	gopkg.in/inf.v0 v0.9.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
 	gopkg.in/yaml.v2 v2.2.2
