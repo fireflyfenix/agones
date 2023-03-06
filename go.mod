@@ -38,12 +38,12 @@ require (
 	github.com/spf13/viper v1.3.1
 	github.com/stretchr/testify v1.2.2
 	go.opencensus.io v0.18.0
-	golang.org/x/net v0.0.0-20181201002055-351d144fa1fc
-	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
+	golang.org/x/net v0.7.0
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
 	google.golang.org/api v0.0.0-20190117000611-43037ff31f69 // indirect
 	google.golang.org/genproto v0.0.0-20190111180523-db91494dd46c
 	google.golang.org/grpc v1.17.0
+	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
 	gopkg.in/inf.v0 v0.9.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
 	gopkg.in/yaml.v2 v2.2.2
